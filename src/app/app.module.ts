@@ -26,7 +26,6 @@ import { AboutComponent } from './about/about.component';
     FormsModule,
     BrowserAnimationsModule  
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
